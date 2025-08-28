@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        ".py"
+    ]
+}
